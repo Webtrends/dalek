@@ -2,15 +2,15 @@
 
 The Dalek is comprised of three subsystems.
 
-Control System
+[Control System](control/)
 ==============
 Motor drivers, power control.
 
-Sensor System
+[Sensor System](sensor/)
 =============
 Flow sensors, etc streamed to data collection and part of Streams.
 
-AV System
+[AV System](av/)
 =========
 Sound effects, music, head movement, arm movement, etc.
 
